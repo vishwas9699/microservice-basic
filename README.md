@@ -31,3 +31,7 @@ microservices/
       │   └── index.js
       ├── Dockerfile
       └── package.json
+```
+
+- user-service/: Manages user-related operations.
+- order-service/: Manages order-related operations, interacts with user-service.
